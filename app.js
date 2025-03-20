@@ -1,4 +1,8 @@
-alert("hello world")
+const mark = 30
 
-const name ="tester"
-alert(name)
+if(mark % 2 === 0)(
+    console.log("number is even")
+)
+else(
+    console.log("number is odd")
+)
