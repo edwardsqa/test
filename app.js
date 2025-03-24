@@ -6,3 +6,4 @@ if(mark % 2 === 0)(
 else(
     console.log("number is even")
 )
+  
